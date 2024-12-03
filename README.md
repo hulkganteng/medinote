@@ -29,5 +29,5 @@ Sebelum memulai, pastikan Anda memiliki hal-hal berikut:
 Kloning repositori ini ke komputer lokal Anda:
 
 ```bash
-git clone https://github.com/username/notes-app.git
-cd notes-app
+git clone https://github.com/hulksunat/medinote.git
+cd medinote
